@@ -20,13 +20,7 @@ The app employs the MVC (Model-View-Controller) pattern, facilitating organized 
 - **Version Control**: Git
 - **Package Manager**: Cocoapods
 - **Database**: Realm (local storage) and MongoDB Realm (server deployment)
-    
-    ![Picture15.png](pics/Picture15.png)
-    
 - **Testing Framework**: Appium for automated app testing.
-    
-    ![Picture18.png](pics/Picture18.png)
-    
 
 ## Setup and Configuration
 
